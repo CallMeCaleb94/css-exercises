@@ -1,0 +1,15 @@
+/* styles-sheet */
+
+#b1 {
+  color: white;
+  background-color: black;
+}
+
+#b2 {
+  background-color: yellow;
+}
+
+button {
+  font-family: "Helevetica", "Times New Roman", "sans-serif";
+  font-size: 28px;
+}
